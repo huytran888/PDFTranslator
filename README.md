@@ -48,12 +48,14 @@ or
 Join our Discord: https://discord.gg/5KGszf4H
 
 ## Don't like this challenge and want to create your own?
-You can your own challenge and also recieve a prize of completing the challenge that you set up for yourself.  Draft a proposal and send it to Huy_Tran@foxitsoftware.com.
+You can your own challenge and also recieve a prize of completing the challenge that you set up for yourself.  
+
+ Draft a proposal and send it to Huy_Tran@foxitsoftware.com.
 
 ## Are there other challenges? 
 Yes, here are the links to the others:
-PDF QR Code Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
 
+PDF QR Code Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
 
 ## Is the prize still available for this challenge?
 Yes
