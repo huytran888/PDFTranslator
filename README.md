@@ -29,7 +29,7 @@ The PDF Translator is a project created for Foxit Student Challenge.  This is a 
 6. See message selected text displayed.  To complete this project, user should go to "PDFTranslate\Samples\Starter\Starter.cpp" and the function TranslateAction and traslate the valuate outText before it is displayed.
 
 ## Prize Info
-If you completed the challenges and you match , you may submit you project to email Huy_Tran@foxitsoftware.com
+If you completed the challenges, submit your project to email Huy_Tran@foxitsoftware.com
 
 Participants must meet the following requirement for submission:
 * Must be students 18 years old or older before attempting the challenge
