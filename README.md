@@ -20,7 +20,7 @@ The PDF Translator is a project created for Foxit Student Challenge.  This is a 
 10. Click "Apply"
 11. Go back to Visaul Studio 2017 and build and run the project.
 
-## What do you get when you run the sample now?
+## What do you get when you run the project now?
 1. Open Foxit PhantomPDF
 2. Open the any PDF with text content
 3. Select text in the PDF
