@@ -19,8 +19,8 @@ The PDF Translator is a project created for Foxit Student Challenge.  This is a 
 10. Click "Apply"
 11. Go back to Visaul Studio 2017 and build and run the project.
 
-## How to start the challenge?
-1. E-mail Huy_Tran@foxitsoftware.com and indicate that you want to accept the challenge and how long you want the challenge to be saved for you to complete.
+## How to accept the challenge?
+E-mail Huy_Tran@foxitsoftware.com and indicate that you want to accept the challenge and how long you want the challenge to be saved for you to complete.
 
 ## Is this project currently saved by a active student challenger?
 No
