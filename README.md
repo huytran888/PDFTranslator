@@ -1,6 +1,6 @@
 # PDFTranslator
 What is the PDF Translor?
-The PDF Translator is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code completed and is waiting for a student to complete the Challenge.
+The PDF Translator is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see **Prize info** section below.
 
 ## Here are the challenges
 1. When a PDF is open, user are able to select a word in the PDF, right click, select Translate, and display the translation.
@@ -28,9 +28,28 @@ The PDF Translator is a project created for Foxit Student Challenge.  This is a 
 5. Select Translate
 6. See message selected text displayed.  To complete this project, user should go to "PDFTranslate\Samples\Starter\Starter.cpp" and the function TranslateAction and traslate the valuate outText before it is displayed.
 
+## Prize Info
+If you completed the challenges and you match , you may submit you project to email Huy_Tran@foxitsoftware.com
+Participants must meet the following requirement for submission:
+* Must be students 18 years old or older before attempting the challenge
+* Must be able to provide active student varification
+* Must be able to legally accept the gift/prize
+
+
 ## Where can I find Foxit PhantomPDF Plug-in APIs?
 Please see "PDFTranslate\Document\Foxit Reader PDF API Reference.pdf"
 
 ## Need Support?
 For Support, please contact Huy_Tran@foxitsoftware.com
 Join our Discord: https://discord.gg/5KGszf4H
+
+## Don't like this challenge and want to create your own?
+You can your own challenge and also recieve a prize of completing the challenge that you set up for yourself.  Draft a proposal and send it to Huy_Tran@foxitsoftware.com.
+
+## Are there other challenges? 
+Yes, here are the links to the others:
+PDF QR Code Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
+
+
+## Is the prize still available for this challenge?
+Yes
