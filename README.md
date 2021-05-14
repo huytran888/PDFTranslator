@@ -33,3 +33,4 @@ Please see "PDFTranslate\Document\Foxit Reader PDF API Reference.pdf"
 
 ##Need Support?
 For Support, please contact Huy_Tran@foxitsoftware.com
+Join our Discord: https://discord.gg/5KGszf4H
