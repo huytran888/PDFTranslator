@@ -42,6 +42,9 @@ Please see "PDFTranslate\Document\Foxit Reader PDF API Reference.pdf"
 
 ## Need Support?
 For Support, please contact Huy_Tran@foxitsoftware.com
+
+or
+
 Join our Discord: https://discord.gg/5KGszf4H
 
 ## Don't like this challenge and want to create your own?
