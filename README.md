@@ -30,6 +30,7 @@ The PDF Translator is a project created for Foxit Student Challenge.  This is a 
 
 ## Prize Info
 If you completed the challenges and you match , you may submit you project to email Huy_Tran@foxitsoftware.com
+
 Participants must meet the following requirement for submission:
 * Must be students 18 years old or older before attempting the challenge
 * Must be able to provide active student varification
