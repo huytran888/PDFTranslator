@@ -1,11 +1,10 @@
 # PDFTranslator
-What is the PDF Translor?
 The PDF Translator is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see **Prize info** section below.
 
 ## Here are the challenges
-1. When a PDF is open, user are able to select a word in the PDF, right click, select Translate, and display the translation.
-2. Be able to translate to and from at least 3 different languages
-3. Have a option to select the language the user to translate to.
+- [ ] When a PDF is open, user are able to select a word in the PDF, right click, select Translate, and display the translation.
+- [ ] Be able to translate to and from at least 3 different languages
+- [ ] Have a option to select the language the user to translate to.
 
 ## How to build and run the project?
 1. Download and install Foxit PhantomPDF https://cdn06.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/10.x/10.1/en_us/FoxitPhantomPDF1011_enu_Setup_Website.msi
@@ -19,6 +18,12 @@ The PDF Translator is a project created for Foxit Student Challenge.  This is a 
 9. Select "Users" and check the box "Full Control"
 10. Click "Apply"
 11. Go back to Visaul Studio 2017 and build and run the project.
+
+## How to start the challenge?
+1. E-mail Huy_Tran@foxitsoftware.com and indicate that you want to accept the challenge and how long you want the challenge to be saved for you to complete.
+
+## Is this project currently saved by a active student challenger?
+No
 
 ## What do you get when you run the project now?
 1. Open Foxit PhantomPDF
@@ -59,3 +64,4 @@ PDF QR Code Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
 
 ## Is the prize still available for this challenge?
 Yes
+
