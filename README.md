@@ -1,7 +1,7 @@
 # PDFTranslator
 The PDF Translator is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see **Prize info** section below.
 
-## Here are the challenges
+## Challenges
 - [ ] When a PDF is open, user are able to select a word in the PDF, right click, select Translate, and display the translation.
 - [ ] Be able to translate to and from at least 3 different languages
 - [ ] Have a option to select the language the user to translate to.
@@ -31,7 +31,7 @@ No
 3. Select text in the PDF
 4. Right click
 5. Select Translate
-6. See message selected text displayed.  To complete this project, user should go to "PDFTranslate\Samples\Starter\Starter.cpp" and the function TranslateAction and traslate the valuate outText before it is displayed.
+6. See message selected text displayed.  To complete the first challenge, user should go to "PDFTranslate\Samples\Starter\Starter.cpp" and the function TranslateAction and traslate the valuate outText before it is displayed.
 
 ## Prize Info
 If you completed the challenges, submit your project to email Huy_Tran@foxitsoftware.com
