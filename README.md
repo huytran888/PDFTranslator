@@ -38,7 +38,7 @@ If you completed all of the challenges, submit your project to email Huy_Tran@fo
 
 Participants must meet the following requirement for submission:
 * Must be students 18 years old or older before attempting the challenge
-* Must be able enrolled in school in the last year
+* Must be enrolled in school or were enrolled in school within the last year
 * Must be able to legally accept the gift/prize
 
 
