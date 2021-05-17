@@ -65,3 +65,7 @@ PDF QR Code Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
 ## Is the prize still available for this challenge?
 Yes
 
+## Project Leads:
+Huy Tran: https://www.linkedin.com/in/huy-tran-9ab02329
+
+Daniel Godfrey: https://www.linkedin.com/in/daniel-godfrey-876b83165/
