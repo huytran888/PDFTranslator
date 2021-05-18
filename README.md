@@ -1,8 +1,8 @@
 # PDFTranslator
 The PDF Translator is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see **Prize info** section below.
 
-## Challenges
-- [ ] When a PDF is open, users are able to select a word in the PDF, right click, select Translate, and display the translation.
+## Challenges (ToDo)
+- [ ] When a PDF is open in Foxit PhantomPDF, users are able to select a word in the PDF, right click, select Translate, and display the translation.
 - [ ] Be able to translate to and from at least 3 different languages
 - [ ] Have an option to select the language the user to translate to.
 
@@ -21,6 +21,9 @@ The PDF Translator is a project created for Foxit Student Challenge.  This is a 
 
 ## How to accept the challenge?
 E-mail Huy_Tran@foxitsoftware.com and indicate that you want to accept the challenge and how long you want the challenge to be saved for you to complete.
+
+## How to submit your completed challenge?
+Create a new Github Page and Request a submission from Huy_Tran@foxitsoftware.com
 
 ## Is this project currently saved by a active student challenger?
 No
@@ -41,7 +44,6 @@ Participants must meet the following requirement for submission:
 * Must be enrolled in school or were enrolled in school within the last year
 * Must be able to legally accept the gift/prize
 
-
 ## Where can I find Foxit PhantomPDF Plug-in APIs?
 Please see "PDFTranslate\Document\Foxit Reader PDF API Reference.pdf"
 
@@ -60,7 +62,9 @@ You can your own challenge and also recieve a prize of completing the challenge 
 ## Are there other challenges? 
 Yes, here are the links to the others:
 
-PDF QR Code Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
+PDF Scheduler Challenge: https://github.com/huytran888/PDFScheduler
+
+PDF QR Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
 
 ## Is the prize still available for this challenge?
 Yes
