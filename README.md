@@ -1,7 +1,7 @@
 # PDFTranslator
 The PDF Translator is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see **Prize info** section below.
 
-## Challenges (ToDo)
+## How to complete this challenge? (ToDo)
 - [ ] When a PDF is open in Foxit PhantomPDF, users are able to select a word in the PDF, right click, select Translate, and display the translation.
 - [ ] Be able to translate to and from at least 3 different languages
 - [ ] Have an option to select the language the user to translate to.
