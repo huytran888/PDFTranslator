@@ -2,16 +2,16 @@
 The PDF Translator is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see **Prize info** section below.
 
 ## How to complete this challenge? (ToDo)
-- [ ] When a PDF is open in Foxit PhantomPDF, users are able to select a word in the PDF, right click, select Translate, and display the translation.
+- [ ] When a PDF is open in Foxit PDF Editor, users are able to select a word in the PDF, right click, select Translate, and display the translation.
 - [ ] Be able to translate to and from at least 3 different languages
 - [ ] Have an option to select the language the user to translate to.
 
 ## How to build and run the project?
-1. Download and install Foxit PhantomPDF https://cdn06.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/10.x/10.1/en_us/FoxitPhantomPDF1011_enu_Setup_Website.msi
+1. Download and install Foxit PDF Editor https://cdn06.foxitsoftware.com/product/phantomPDF/desktop/win/11.0.0/FoxitEditor110_enu_Setup_Website.msi
 2. Install Microsoft Visual Studio 2017 https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads
 3. Open "PDFTranslator\Samples\Starter\Starter.sln" with Visual Studio 2017
 4. Install any project dependancy Visual Studio 2017 indicates that you are missing.
-5. Open Windows Explorer and go to "C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\"
+5. Open Windows Explorer and go to "C:\Program Files (x86)\Foxit Software\Foxit PDF Editor\"
 6. Right click on the folder "plugins" and choose properties
 7. Click on the "Security" Tab
 8. Click on "Edit"
@@ -29,7 +29,7 @@ Create a new Github Page and Request a submission from Huy_Tran@foxitsoftware.co
 No
 
 ## What do you get when you run the project now?
-1. Open Foxit PhantomPDF
+1. Open Foxit PDF Editor
 2. Open the any PDF with text content
 3. Select text in the PDF
 4. Right click
@@ -44,7 +44,7 @@ Participants must meet the following requirement for submission:
 * Must be enrolled in school or were enrolled in school within the last year
 * Must be able to legally accept the gift/prize
 
-## Where can I find Foxit PhantomPDF Plug-in APIs?
+## Where can I find Foxit PDF Editor Plug-in APIs?
 Please see "PDFTranslate\Document\Foxit Reader PDF API Reference.pdf"
 
 ## Need Support?

@@ -1,4 +1,4 @@
-#include "stdafx.h""
+#include "../../Samples/Starter/StdAfx.h"
 #include "PIMain.h"
 
 #include "../basic/fs_pidata.h"

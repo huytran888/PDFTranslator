@@ -54,7 +54,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <OutDir>$(ProgramFiles)\Foxit Software\Foxit PhantomPDF\plugins</OutDir>
+    <OutDir>$(ProgramFiles)\Foxit Software\Foxit PDF Editor\plugins</OutDir>
     <IntDir>.\Debug\</IntDir>
     <LinkIncremental>true</LinkIncremental>
     <TargetExt>.fpi</TargetExt>
@@ -76,7 +76,7 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;UNICODE;_USRDLL;_WINDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AssemblerListingLocation>.\Debug\</AssemblerListingLocation>
       <PrecompiledHeaderOutputFile>.\Debug\Starter.pch</PrecompiledHeaderOutputFile>
-      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
       <ObjectFileName>.\Debug\</ObjectFileName>
       <ProgramDataBaseFileName>.\Debug\</ProgramDataBaseFileName>
@@ -102,13 +102,13 @@
       <LinkDLL>true</LinkDLL>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
-      <OutputFile>$(ProgramFiles)\Foxit Software\Foxit PhantomPDF\plugins\$(ProjectName)$(TargetExt)</OutputFile>
+      <OutputFile>$(ProgramFiles)\Foxit Software\Foxit PDF Editor\plugins\$(ProjectName)$(TargetExt)</OutputFile>
       <ImportLibrary>.\Debug\Starter.lib</ImportLibrary>
       <ModuleDefinitionFile>.\Starter.def</ModuleDefinitionFile>
     </Link>
     <PreBuildEvent>
-      <Command>tasklist /fi "imagename eq FoxitPhantomPDF.exe" |find ":" &gt; nul
-if errorlevel 1 taskkill /f /im "FoxitPhantomPDF.exe"
+      <Command>tasklist /fi "imagename eq FoxitPDFEditor.exe" |find ":" &gt; nul
+if errorlevel 1 taskkill /f /im "FoxitPDFEditor.exe"
 regedit.exe /s "$(SolutionDir)..\..\Tools\Register$(ProjectName).reg"</Command>
     </PreBuildEvent>
     <PostBuildEvent>
